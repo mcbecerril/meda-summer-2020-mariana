@@ -1,0 +1,64 @@
+#Author: Mariana Becerril
+#Date: July 17th 2020
+#Description: Design brief for Project 2. Text based questions are answered here while accompanying documents are in the same folder.
+
+A)  For my website, I am using the following colors:
+	• Body: #6A7275
+	• Header: #005475
+	• Link: #008AC2
+	• Visited link and borders: #00AFF5
+	• Text: #6A7275
+	• Background: #E6E6E6
+
+B) Images are attached:
+	1. Avatar
+	2. Headshot
+	3. Skills pie chart
+	4. Color palette (for visualizing the colors I will be using)
+
+C) Sitemap is attached.
+
+D) Website description below:
+
+   HOMEPAGE: 
+
+	Avatar
+	I’m Mariana—good to e-meet you! I am a finance technology professional experienced in strategy consulting, data analysis, and finance process improvement. 
+
+   ABOUT ME:
+
+	Using data to create recommendations and helping companies launch new products or services, scale and expand internationally, and become more efficient motivates me. I also 	love being wrong and learning new things (right now, my focus is on learning web development).
+
+	A Mexico City native where I studied public policy, I am always interested in discussing urban policy and finding good tacos. When not working or online, you can find me 	lifting weights, reading, or building LEGO.
+
+	I worked as a paramedic for many years, so I am good at working with limited resources while under pressure. If you’re interested in working with me (or want taco 		recommendations!), reach out [email link].
+
+   WORK:
+
+	I have experience in data analysis and financial modeling as well as various project management methodologies and tools. Even before this global health event, I have worked 	from home with distributed and cross-functional teams all over the world. I speak fluent Spanish and have intermediate knowledge of Portuguese, French, and German.  
+
+   CONTACT INFORMATION:
+	Linkedin
+	GitHub
+
+E) I looked at the following portfolio examples:
+	• http://www.kathrynmcclintock.com  I like that this website is very straightforward and the author puts her picture at the beginning. It is also not dynamic or has any 	weird navigation effects, which I appreciate. The header is her logo in yellow. Main is the body with information. Footer are the links/icons to her social media at the 	bottom.
+	• https://www.behance.net/IgnacioMacri - This portfolio is a great use of graphics and images. I love the color, simplicity and symmetry in it. I also appreciate that it is 	easy to contact its author. It is a bit confusing to click on the main logo because it only reloads the page—maybe I would have got rid of that link at least in the 		homepage. The header is the black banner at the top. Main is the body with the different images/posters with the author’s work. Footer is not used.
+	• http://www.drewtempleton.com - This was my favorite portfolio. The author uses logos, images, and even emojis in a way that is easy to understand and it is very easy to 	navigate. I also appreciate that the author not only showcases his work but it also shows some of his passions outside of work. The downside is that his subpages are pop-	ups, so that is not the best navigation experience if you use a pop-up blocker and makes the website seem broken. The header is the logo at the top. The main are the 		pictures with links to the subpages. The author does not use a footer.
+
+F) Wireframes are attached.
+
+G) Resume is attached.
+
+H) Appendix: 
+   Icons used:
+	• <i class="fab fa-github"></i>
+	• <i class="fab fa-apple"></i>
+	• <i class="fab fa-airbnb"></i>
+	• <i class="fab fa-linkedin"></i>
+   Image attributions:
+
+
+
+
+
