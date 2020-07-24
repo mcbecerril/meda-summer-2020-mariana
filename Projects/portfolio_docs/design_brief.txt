@@ -59,13 +59,14 @@ H) Appendix:
 	• <i class="fab fa-airbnb"></i>
 	• <i class="fab fa-linkedin"></i>
 	• <i class="fas fa-bars"></i> 
-	• <i class="fas fa-bars"></i>
+	• <i class="fa fa-home" aria-hidden="true"></i>
 
 
    Image attributions:
 
 AMENDMENTS:
 • Slightly tweaked homepage text
+• Added home icon, which was not originally included in wireframes
 
 
 
