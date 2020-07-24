@@ -19,37 +19,38 @@ body {
   }
 
 #avatar{
-  margin-left:2%;
   float:left; 
   height:40px;
   width:40px;
-  padding-top: 55px;
+  padding-top: 70px;
   padding-bottom: 50px;
-  padding-left: 100px;
+  padding-left: 250px;
 }
 
 .mainText {
   font-family: "Helvetica Light", Arial, sans-serif; 
-  font-size: 16px;
+  font-size: 20px;
   font-weight: lighter;
   height:auto;
-  padding-left:400px;
+  padding-left:500px;
   padding-top: 50px;
   padding-bottom: 50px;
+  padding-right: 100px;
+  border: 2px red;
 }
 
 h1 { 
     background: #005475;
-    border:1px solid black; /*ISSUE*/
   }
 
 .headerIcons .fa {
-    padding: 10px;
-    font-size: 70px;
-    align-items: center;
+    padding-bottom: 5px;
+    font-size: 24px;
+    float: right;
     text-decoration: none;
     color: white;
-    border:1px solid black;
+
+    background-color: #005475;
   }
 
 footer {
