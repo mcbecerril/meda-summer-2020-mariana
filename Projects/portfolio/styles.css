@@ -83,6 +83,13 @@ body {
   padding-left: 150px;
 }
 
+#headshot{
+  float:left; 
+  padding-top: 100px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
 .mainText {
   font-family: "Helvetica Light", Arial, sans-serif; 
   font-size: 20px;
@@ -93,6 +100,10 @@ body {
   padding-bottom: 50px;
   padding-right: 100px;
   background-color:white;
+}
+
+#emailme {
+  color:black;
 }
 
 footer {
