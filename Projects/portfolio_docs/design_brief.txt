@@ -55,8 +55,6 @@ G) Resume is attached.
 H) Appendix: 
    Icons used:
 	• <i class="fab fa-github"></i>
-	• <i class="fab fa-apple"></i>
-	• <i class="fab fa-airbnb"></i>
 	• <i class="fab fa-linkedin"></i>
 	• <i class="fas fa-bars"></i> 
 	• <i class="fa fa-home" aria-hidden="true"></i>
@@ -67,6 +65,8 @@ H) Appendix:
 AMENDMENTS:
 • Slightly tweaked homepage text
 • Added home icon, which was not originally included in wireframes
+• Added a third image, a graphic to show skills
+• Removed some font-awesome icons I did not use and added others
 
 
 

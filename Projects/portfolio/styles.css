@@ -110,6 +110,14 @@ footer {
   background-color: #005475;
 }
 
+#skills {
+  float:left; 
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 .footerIcons .fa {
   padding-right: 20px;
   padding-top: 40px;
