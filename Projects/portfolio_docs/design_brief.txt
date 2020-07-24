@@ -23,7 +23,9 @@ D) Website description below:
    HOMEPAGE: 
 
 	Avatar
-	I’m Mariana—good to e-meet you! I am a finance technology professional experienced in strategy consulting, data analysis, and finance process improvement. 
+	Hi, I’m Mariana--good to e-meet you! 
+    
+	I am a bilingual (English/Spanish) finance technology professional. I have 		experience in strategy consulting, data analysis, and project management with a 	focus on product, software, and process development. 
 
    ABOUT ME:
 
@@ -56,7 +58,15 @@ H) Appendix:
 	• <i class="fab fa-apple"></i>
 	• <i class="fab fa-airbnb"></i>
 	• <i class="fab fa-linkedin"></i>
+	• <i class="fas fa-bars"></i> 
+	• <i class="fas fa-bars"></i>
+
+
    Image attributions:
+
+AMENDMENTS:
+• Slightly tweaked homepage text
+
 
 
 

@@ -1,0 +1,28 @@
+body {
+    background: red;
+  }
+
+.headerIcons {
+    background: lightblue;
+  }
+
+.headerIcons .fa {
+    padding: 10px;
+    font-size: 70px;
+    text-align: center;
+    text-decoration: none;
+    color: #00aff5;
+  }
+
+.footerIcons .fa {
+    padding: 10px;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: #00aff5;
+}
+  
+  /* Add a hover effect if you want */
+ #headericons:hover {
+    opacity: 0.7;
+ }

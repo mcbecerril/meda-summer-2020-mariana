@@ -1,0 +1,81 @@
+nav{
+  background-color: #6a7275;
+  font-family: "Helvetica Light", Arial, sans-serif;
+  font-size: 24px;
+  float: right;
+  padding-right: 40px;
+  text-decoration: none;
+  border:1px solid black;
+}
+
+h1{
+  font-family: "Helvetica Light", Arial, sans-serif;
+  border:1px solid black;
+}
+
+body {
+    background: white;
+    border:1px solid black;
+  }
+
+#avatar{
+  margin-left:2%;
+  float:left; 
+  height:40px;
+  width:40px;
+  padding-top: 55px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+.mainText {
+  font-family: "Helvetica Light", Arial, sans-serif; 
+  font-size: 16px;
+  font-weight: lighter;
+  height:auto;
+  padding-left:400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h1 { 
+    background: #005475;
+    border:1px solid black; /*ISSUE*/
+  }
+
+.headerIcons .fa {
+    padding: 10px;
+    font-size: 70px;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    border:1px solid black;
+  }
+
+footer {
+  background-color: #005475;
+}
+
+.footerIcons .fa {
+  padding-right: 10px;
+  padding-top: 40px;
+  font-size: 24px;
+  float: right;
+  text-decoration: none;
+  color: white;
+  }
+
+#footerText {
+  font-family: "Helvetica Light", Arial, sans-serif;
+  padding: 5px;
+  padding-top: 46px;
+  font-size: 14px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
+}
+  
+  /* Add a hover effect if you want */
+ .headericons:hover {
+    opacity: 0.4;
+ }
