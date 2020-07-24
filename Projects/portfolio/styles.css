@@ -1,21 +1,69 @@
-nav{
-  background-color: #6a7275;
-  font-family: "Helvetica Light", Arial, sans-serif;
-  font-size: 24px;
-  float: right;
-  padding-right: 40px;
-  text-decoration: none;
-  border:1px solid black;
+header {
+  background-color: #005475;
 }
 
-h1{
+.headerIcons .fa {
+  padding-right: 20px;
+  padding-top: 20px;
+  font-size: 24px;
+  float: right;
+  text-decoration: none;
+  color: white;
+  }
+
+.headerIcons .fa:hover { color: #6a7275; }
+
+nav{
   font-family: "Helvetica Light", Arial, sans-serif;
-  border:1px solid black;
+  padding: 5px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-size: 24px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
 }
+
+#about{
+  font-family: "Helvetica Light", Arial, sans-serif;
+  padding: 5px;
+  padding-top: 40px;
+  font-size: 24px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
+}
+
+#about:hover { color: #6a7275; }
+
+#work {
+  font-family: "Helvetica Light", Arial, sans-serif;
+  padding: 5px;
+  padding-top: 40px;
+  padding-left: 40px;
+  font-size: 24px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
+}
+#work:hover { color: #6a7275; }
+
+#contact {
+  font-family: "Helvetica Light", Arial, sans-serif;
+  padding: 5px;
+  padding-top: 40px;
+  padding-left: 40px;
+  font-size: 24px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
+}
+#contact:hover { color: #6a7275; }
 
 body {
     background: white;
-    border:1px solid black;
+    border:2px solid #005475;
   }
 
 #avatar{
@@ -24,7 +72,7 @@ body {
   width:40px;
   padding-top: 70px;
   padding-bottom: 50px;
-  padding-left: 250px;
+  padding-left: 150px;
 }
 
 .mainText {
@@ -32,51 +80,36 @@ body {
   font-size: 20px;
   font-weight: lighter;
   height:auto;
-  padding-left:500px;
+  padding-left:400px;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-right: 100px;
-  border: 2px red;
+  background-color:white;
 }
-
-h1 { 
-    background: #005475;
-  }
-
-.headerIcons .fa {
-    padding-bottom: 5px;
-    font-size: 24px;
-    float: right;
-    text-decoration: none;
-    color: white;
-
-    background-color: #005475;
-  }
 
 footer {
   background-color: #005475;
 }
 
 .footerIcons .fa {
-  padding-right: 10px;
+  padding-right: 20px;
   padding-top: 40px;
+  margin-bottom: 20px;
   font-size: 24px;
   float: right;
   text-decoration: none;
   color: white;
   }
 
+.footerIcons .fa:hover { color: #6a7275; }
+
 #footerText {
   font-family: "Helvetica Light", Arial, sans-serif;
   padding: 5px;
+  padding-left: 20px;
   padding-top: 46px;
   font-size: 14px;
   text-align: left;
   text-decoration: none;
   color: white;
 }
-  
-  /* Add a hover effect if you want */
- .headericons:hover {
-    opacity: 0.4;
- }
