@@ -1,9 +1,19 @@
+
+
 $(document).ready(function () {
 
     var allParagraphs = $("p");
     var textButton = $("#textButton");
 
     // $("p").css();
+
+    setTimeout(function () {
+        $("popup").css("display","block");
+
+    }, 5000);
+
+    $("#closePopup") .click(function () {
+        
 
     textButton.click( function () {
 
